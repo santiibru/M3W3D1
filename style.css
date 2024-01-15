@@ -58,11 +58,12 @@ span{
 
 .feather-bookmark{
     transition: all 0.3s linear;
+    cursor: pointer;
 }
 
 .feather-bookmark:hover{
   fill: #5c5776;
-  transform: scale(1.5);
+  transform: scale(1.2);
 }
 
 .card-element{
